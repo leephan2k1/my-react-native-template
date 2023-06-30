@@ -61,4 +61,9 @@ buck-out/
 
 # Expo
 .expo/*
+.expo
 web-build/
+
+# Env
+.env
+.env.local
